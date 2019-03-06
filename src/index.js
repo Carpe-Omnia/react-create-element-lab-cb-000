@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 const list =
   React.createElement('ul', {class: "my-interests"},
 [
-  React.createElement('li',{},'Javascript'),
+  React.createElement('li',{},'JavaScript'),
   React.createElement('li',{},'React'),
   React.createElement('li',{},'Movies'),
   React.createElement('li',{},'Ice Cream')

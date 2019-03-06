@@ -10,10 +10,10 @@ const list =
   React.createElement('li',{},'Ice Cream')
 ])
 
-
+const meInReact
 
 ReactDOM.render(
-  meInReact,
+  list,
   document.getElementById('global')
 );
 

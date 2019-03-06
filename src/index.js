@@ -10,7 +10,6 @@ const meInReactt =
   React.createElement('li',{},'Ice Cream')
 ])
 
-const
 
 ReactDOM.render(
   list,

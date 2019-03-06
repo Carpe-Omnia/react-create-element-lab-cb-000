@@ -16,4 +16,4 @@ ReactDOM.render(
   document.getElementById('global')
 );
 
-export default meInReact
+export default list

@@ -9,7 +9,7 @@ const list =
   React.createElement('li',{},'Movies'),
   React.createElement('li',{},'Ice Cream')
 ])
-const header = React.createElement('h1',{},'An Awesome Person') ; 
+const header = React.createElement('h1',{},'An Awesome Person') ;
 const paragraph = React.createElement('p',{},'Who is learning React')
 
 const meInReact =

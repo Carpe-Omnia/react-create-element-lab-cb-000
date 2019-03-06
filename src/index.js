@@ -9,7 +9,7 @@ const list =
   React.createElement('li',{},'Movies'),
   React.createElement('li',{},'Ice Cream')
 ])
-const meIntReact =
+const meInReact =
   React.createElement('div', {class: "me"}, list)
 
 ReactDOM.render(

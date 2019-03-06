@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const list =
-  React.createElement('ul', {class: "my-interests"},
+  React.createElement('ul', {className: "my-interests"},
 [
   React.createElement('li',{},'JavaScript'),
   React.createElement('li',{},'React'),

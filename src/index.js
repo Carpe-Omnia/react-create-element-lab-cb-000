@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const list =
+const meInReactt =
   React.createElement('ul', {class: "my-interests"},
 [
   React.createElement('li',{},'Javascript'),
@@ -10,7 +10,7 @@ const list =
   React.createElement('li',{},'Ice Cream')
 ])
 
-const meInReact
+const 
 
 ReactDOM.render(
   list,

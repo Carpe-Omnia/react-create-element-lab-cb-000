@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const meInReact =
+const list =
   React.createElement('ul', {class: "my-interests"},
 [
   React.createElement('li',{},'Javascript'),
@@ -12,7 +12,7 @@ const meInReact =
 
 
 ReactDOM.render(
-  meInReact,
+  list,
   document.getElementById('global')
 );
 

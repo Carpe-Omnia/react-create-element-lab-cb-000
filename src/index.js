@@ -7,7 +7,7 @@ const list =
   React.createElement('li',{},'JavaScript'),
   React.createElement('li',{},'React'),
   React.createElement('li',{},'Movies'),
-  React.createElement('li',{},'Ice Cream')
+  React.createElement('li',{},'Ice cream')
 ])
 const header = React.createElement('h1',{},'An Awesome Person') ;
 const paragraph = React.createElement('p',{},'Who is learning React')
